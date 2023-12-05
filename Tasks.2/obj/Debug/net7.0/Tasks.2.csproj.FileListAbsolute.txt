@@ -1,0 +1,15 @@
+C:\Users\akost\source\repos\Tasks\Tasks.2\bin\Debug\net7.0\Tasks.2.exe
+C:\Users\akost\source\repos\Tasks\Tasks.2\bin\Debug\net7.0\Tasks.2.deps.json
+C:\Users\akost\source\repos\Tasks\Tasks.2\bin\Debug\net7.0\Tasks.2.runtimeconfig.json
+C:\Users\akost\source\repos\Tasks\Tasks.2\bin\Debug\net7.0\Tasks.2.dll
+C:\Users\akost\source\repos\Tasks\Tasks.2\bin\Debug\net7.0\Tasks.2.pdb
+C:\Users\akost\source\repos\Tasks\Tasks.2\obj\Debug\net7.0\Tasks.2.csproj.AssemblyReference.cache
+C:\Users\akost\source\repos\Tasks\Tasks.2\obj\Debug\net7.0\Tasks.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akost\source\repos\Tasks\Tasks.2\obj\Debug\net7.0\Tasks.2.AssemblyInfoInputs.cache
+C:\Users\akost\source\repos\Tasks\Tasks.2\obj\Debug\net7.0\Tasks.2.AssemblyInfo.cs
+C:\Users\akost\source\repos\Tasks\Tasks.2\obj\Debug\net7.0\Tasks.2.csproj.CoreCompileInputs.cache
+C:\Users\akost\source\repos\Tasks\Tasks.2\obj\Debug\net7.0\Tasks.2.dll
+C:\Users\akost\source\repos\Tasks\Tasks.2\obj\Debug\net7.0\refint\Tasks.2.dll
+C:\Users\akost\source\repos\Tasks\Tasks.2\obj\Debug\net7.0\Tasks.2.pdb
+C:\Users\akost\source\repos\Tasks\Tasks.2\obj\Debug\net7.0\Tasks.2.genruntimeconfig.cache
+C:\Users\akost\source\repos\Tasks\Tasks.2\obj\Debug\net7.0\ref\Tasks.2.dll

@@ -1,0 +1,15 @@
+C:\Users\akost\source\repos\Tasks\Tasks.1\bin\Debug\net7.0\Tasks.1.exe
+C:\Users\akost\source\repos\Tasks\Tasks.1\bin\Debug\net7.0\Tasks.1.deps.json
+C:\Users\akost\source\repos\Tasks\Tasks.1\bin\Debug\net7.0\Tasks.1.runtimeconfig.json
+C:\Users\akost\source\repos\Tasks\Tasks.1\bin\Debug\net7.0\Tasks.1.dll
+C:\Users\akost\source\repos\Tasks\Tasks.1\bin\Debug\net7.0\Tasks.1.pdb
+C:\Users\akost\source\repos\Tasks\Tasks.1\obj\Debug\net7.0\Tasks.1.csproj.AssemblyReference.cache
+C:\Users\akost\source\repos\Tasks\Tasks.1\obj\Debug\net7.0\Tasks.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akost\source\repos\Tasks\Tasks.1\obj\Debug\net7.0\Tasks.1.AssemblyInfoInputs.cache
+C:\Users\akost\source\repos\Tasks\Tasks.1\obj\Debug\net7.0\Tasks.1.AssemblyInfo.cs
+C:\Users\akost\source\repos\Tasks\Tasks.1\obj\Debug\net7.0\Tasks.1.csproj.CoreCompileInputs.cache
+C:\Users\akost\source\repos\Tasks\Tasks.1\obj\Debug\net7.0\Tasks.1.dll
+C:\Users\akost\source\repos\Tasks\Tasks.1\obj\Debug\net7.0\refint\Tasks.1.dll
+C:\Users\akost\source\repos\Tasks\Tasks.1\obj\Debug\net7.0\Tasks.1.pdb
+C:\Users\akost\source\repos\Tasks\Tasks.1\obj\Debug\net7.0\Tasks.1.genruntimeconfig.cache
+C:\Users\akost\source\repos\Tasks\Tasks.1\obj\Debug\net7.0\ref\Tasks.1.dll
